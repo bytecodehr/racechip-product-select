@@ -12,7 +12,7 @@ NOTE TO MERCHANT: This is a template Privacy Policy designed to cover your colle
 NOTE TO MERCHANT: This template is not legal advice, and you are solely responsible for ensuring that you meet your obligations under applicable laws. As privacy laws are constantly evolving, you should regularly review your privacy notice to ensure that it is compliant with updated laws and regulation and that it accurately reflects current data handling practices. We recommend that you consult a lawyer as needed.
 {% endcomment %}
 
-# Code Alpha d.o.o. Privacy Policy
+# Code Alpha d.o.o. (racechip.hr) Privacy Policy
 ## Last updated: {{ "now" | date: "%Y-%m-%d" }}
 
 This Privacy Policy describes how Code Alpha d.o.o. (the "Site", "we", "us", or "our") collects, uses, and discloses your personal information when you visit, use our services, or make a purchase from [https://racechip.hr/](https://racechip.codealpha.hr/) (the "Site") or otherwise communicate with us (collectively, the "Services"). For purposes of this Privacy Policy, "you" and "your" means you as the user of the Services, whether you are a customer, website visitor, or another individual whose information we have collected pursuant to this Privacy Policy.
